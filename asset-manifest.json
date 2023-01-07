@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.62c5b68c.css",
+    "main.js": "/static/js/main.41b84156.js",
+    "static/media/lootbox.png": "/static/media/lootbox.ab9c7d55e920ba544f01.png",
+    "static/media/АННИГИЛЯЦИЯ-2.png": "/static/media/АННИГИЛЯЦИЯ-2.bd5c8d147b8d1d2e05e7.png",
+    "static/media/КАТАНА-2.png": "/static/media/КАТАНА-2.80af4ea722b40eb54197.png",
+    "static/media/КАТАНА-3.png": "/static/media/КАТАНА-3.097dde1deb94e3d2af5f.png",
+    "static/media/АННИГИЛЯЦИЯ-0.png": "/static/media/АННИГИЛЯЦИЯ-0.bd13e7e878f2975dce68.png",
+    "static/media/АННИГИЛЯЦИЯ-3.png": "/static/media/АННИГИЛЯЦИЯ-3.86c3347e275b953d47a0.png",
+    "static/media/ЧИП-2.png": "/static/media/ЧИП-2.9cd73350eeb26f729f17.png",
+    "static/media/ГРАНАТА-2.png": "/static/media/ГРАНАТА-2.bf24c19c2ebf7720e0ec.png",
+    "static/media/ПИСТОЛЕТ-2.png": "/static/media/ПИСТОЛЕТ-2.c6e7461ea00d4d1b77e8.png",
+    "static/media/ЧИП-3.png": "/static/media/ЧИП-3.e7c6cf407c9c0bab4c58.png",
+    "static/media/ГРАНАТА-3.png": "/static/media/ГРАНАТА-3.260f8099b954b93543dd.png",
+    "static/media/АННИГИЛЯЦИЯ-1.png": "/static/media/АННИГИЛЯЦИЯ-1.739fc6933853cf887ddf.png",
+    "static/media/ПИСТОЛЕТ-3.png": "/static/media/ПИСТОЛЕТ-3.895a4772997f32fa22b6.png",
+    "static/media/КАТАНА-0.png": "/static/media/КАТАНА-0.19197f3c58d353538f54.png",
+    "static/media/ЧИП-0.png": "/static/media/ЧИП-0.e1489b637d8b70cc2b76.png",
+    "static/media/ГРАНАТА-0.png": "/static/media/ГРАНАТА-0.93901ba1759fa94eb1c1.png",
+    "static/media/КАТАНА-1.png": "/static/media/КАТАНА-1.996aec28409ae83d29f5.png",
+    "static/media/ПИСТОЛЕТ-0.png": "/static/media/ПИСТОЛЕТ-0.7caf03818d35e4b0e2cc.png",
+    "static/media/ЧИП-1.png": "/static/media/ЧИП-1.e27518b4d6e9a89f4cf2.png",
+    "static/media/ГРАНАТА-1.png": "/static/media/ГРАНАТА-1.9d0f892ce657264f12bb.png",
+    "static/media/ПИСТОЛЕТ-1.png": "/static/media/ПИСТОЛЕТ-1.6ee719ee357c16111ae9.png",
+    "index.html": "/index.html",
+    "main.62c5b68c.css.map": "/static/css/main.62c5b68c.css.map",
+    "main.41b84156.js.map": "/static/js/main.41b84156.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62c5b68c.css",
+    "static/js/main.41b84156.js"
+  ]
+}
